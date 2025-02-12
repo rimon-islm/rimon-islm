@@ -12,7 +12,6 @@ Networking & Hardware: Raspberry Pi, Embedded Systems
 
 👨‍🏫 Experience
 Teaching Assistant (TA) @ KTH – Assisting students with technical projects in CAD, programming, and hardware.
-NOC/Network Enthusiast – Passionate about IT infrastructure and network operations.
 Service-Oriented – Previous roles in customer support and assistance, ensuring smooth user experiences.
 
 📫 Connect with Me
