@@ -1,16 +1,21 @@
-### Hi there 👋
+Hi there 👋, I'm Rimon Islam!
+🎓 Engineering Student @ KTH
+🚀 Passionate about Technology, Programming, and Innovation
 
-<!--
-**rimon-islm/rimon-islm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+About Me
+I'm a Civil Engineering student at KTH, currently studying Information Technology & Mechanical Engineering. I have experience working with CAD, 3D printing, and programming and enjoy solving technical challenges.
 
-Here are some ideas to get you started:
+💻 Tech Stack
+Programming: Python, Java, C, MARS (Assembly), Arduino
+CAD & Design: SolidEdge
+Networking & Hardware: Raspberry Pi, Embedded Systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👨‍🏫 Experience
+Teaching Assistant (TA) @ KTH – Assisting students with technical projects in CAD, programming, and hardware.
+NOC/Network Enthusiast – Passionate about IT infrastructure and network operations.
+Service-Oriented – Previous roles in customer support and assistance, ensuring smooth user experiences.
+
+📫 Connect with Me
+✉️ Email: rimon.islm03@gmail.com
+
+⚡ Fun Fact: I speak Swedish, English, and Bengali fluently!
