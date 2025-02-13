@@ -4,7 +4,7 @@
 🚀 Passionate about Technology, Programming, and Innovation  
 
 ## 🔹 About Me  
-I'm a Civil Engineering student at KTH, currently studying **Information Technology & Mechanical Engineering**.  
+I'm a Engineering student at KTH, currently studying **Information Technology & Mechanical Engineering**.  
 I have experience working with **CAD, 3D printing, and programming** and enjoy solving technical challenges.  
 
 ## 💻 Tech Stack  
